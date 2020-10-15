@@ -17,7 +17,7 @@ Pagina web estatica
 
 se ocupo estos elementos 
 
-##<!DOCTYPE html> donde se representa que estamos usan el html version 5
+## DOCTYPE html para representar que se utilizo la version 5 de HTML
 
 ##<Title> para indicar el titulo en este caso la optimizacion 
  
