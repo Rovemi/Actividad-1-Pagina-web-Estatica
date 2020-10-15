@@ -21,9 +21,6 @@ se ocupo estos elementos
 
 ##<Title> para indicar el titulo en este caso la optimizacion 
  
- ##</h1> para el texto 
- 
- ##<p> para el cuerpo de la informacion 
  
  ##en el siguiente documento vemos mas a fondo la pagina web estatica
 
