@@ -2,7 +2,7 @@
 
 ##Empezar hacer una pagina web estática donde solo podemos observar los elementos de la pagina y limitando un poco la interacción
 
-##Ventajas de una pagina web estática
+Ventajas
 
 
 ##1.- Portabilidad ya que el código corre en cualquier servidor   
@@ -20,3 +20,5 @@ el administrador no puede eliminar ni modificar el contenido
 el contenido es estatico solo sirve para mostrar informacion 
 
 el proceso de actualizacion es manual el cual lo hace mas lento 
+
+en el siguiente archivo  estara la pagina web 
