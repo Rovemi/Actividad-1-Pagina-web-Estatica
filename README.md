@@ -13,15 +13,7 @@
 
 ##A continuación mostrare algunas funciones e imágenes utilizadas en este proyecton
 
-## Desventajas
-
-el administrador no puede eliminar ni modificar el contenido
-
-el contenido es estatico solo sirve para mostrar informacion 
-
-el proceso de actualizacion es manual el cual lo hace mas lento 
-
-Pagina web Estatica
+Pagina web estatica
 
 se ocupo estos elementos 
 <!DOCTYPE html> donde se representa que estamos usan el html version 5
