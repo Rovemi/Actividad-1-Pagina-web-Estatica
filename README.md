@@ -16,10 +16,15 @@
 Pagina web estatica
 
 se ocupo estos elementos 
+
 <!DOCTYPE html> donde se representa que estamos usan el html version 5
+
 <Title> para indicar el titulo en este caso la optimizacion 
+ 
  </h1> para el texto 
+ 
  <p> para el cuerpo de la informacion 
+ 
  en el siguiente documento vemos mas a fondo la pagina web estatica
 
 
